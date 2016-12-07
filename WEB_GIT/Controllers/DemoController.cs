@@ -14,6 +14,8 @@ namespace WEB_GIT.Controllers
         {
             //mới thêm vào
             var a = 0;
+            //Commit and Synced
+            
             return View();
         }
 	}
