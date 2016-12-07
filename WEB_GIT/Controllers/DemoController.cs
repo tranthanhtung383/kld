@@ -18,6 +18,7 @@ namespace WEB_GIT.Controllers
             //Commit and Synced
             //SUa lai loi
             return View();
+            //them version
         }
 	}
 }
