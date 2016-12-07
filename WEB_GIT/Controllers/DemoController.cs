@@ -12,6 +12,8 @@ namespace WEB_GIT.Controllers
         // GET: /Demo/
         public ActionResult Index()
         {
+            //mới thêm vào
+            var a = 0;
             return View();
         }
 	}
